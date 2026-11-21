@@ -1,6 +1,6 @@
 # MCE Group Performance Management System
 
-A command-line application for managing student records, subjects, marks, attendance, and class performance analytics. It uses Python and MySQL, with 21 student records (roll numbers 25/MC/045 through 25/MC/065) and five courses. The setup script does not include marks or attendance values for these students.
+A command-line application for managing student records, subjects, marks, attendance, and class performance analytics. It uses Python and MySQL, with sample data for 23 students and five courses.
 
 ## Features
 
